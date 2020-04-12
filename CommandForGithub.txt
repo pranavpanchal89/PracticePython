@@ -13,3 +13,5 @@ Steps to login, commit and upload files into github
 6. git commit -m "commit comment" "file name" (to commit file into repository)
 
 7. git push -u origin master (to upload the file into repository)
+
+8. git rm -r "file name" (to remove file from the repository)

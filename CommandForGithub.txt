@@ -1,0 +1,15 @@
+Steps to login, commit and upload files into github
+
+1. git config --global user.name "pranavpanchal89"	(to config repository)
+
+2. git config --globla user.email panchal.pranav89@gmail.com
+
+3. git clone "link of the repository" (to clone repository)
+
+4. git add "file name" (to add file into repository)
+
+5. git status (to check the status of the repository)
+
+6. git commit -m "commit comment" "file name" (to commit file into repository)
+
+7. git push -u origin master (to upload the file into repository)
